@@ -3,3 +3,6 @@
 comp 211 hooray yay comp sci yay
 
 joey's line
+chloe line 1
+
+chloe line 2
